@@ -920,7 +920,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 09137335f87840140b4f9e7aa249e8ff, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.727
+  m_Volume: 0.821
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1601,10 +1601,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 6faf325ff047e9942848aac0ba1f7729, type: 3}
-    m_FontSize: 31
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 60
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -3408,11 +3408,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 6faf325ff047e9942848aac0ba1f7729, type: 3}
-    m_FontSize: 54
+    m_FontSize: 55
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
-    m_MaxSize: 54
+    m_MaxSize: 55
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
